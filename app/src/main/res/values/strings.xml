@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Jokes App</string>
+    <string name="text_jokes">Jokes</string>
+    <string name="text_app">App</string>
+    <string name="searchbar_hint">input keyword...</string>
+    <string name="quote_placeholder">\"%1$s\"</string>
+    <string name="text_random">Random</string>
+    <string name="text_instruction_random_jokes">Click a button to get a random jokes from norris</string>
+    <string name="text_jokes_not_found">This is a sensitive thing for me, so I have no jokes about it, sorry..</string>
 </resources>
